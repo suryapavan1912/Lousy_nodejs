@@ -8,11 +8,11 @@ const Port = 9000;
 // const corsOptions ={ origin:'http://localhost:3000' , credentials:true , optionSuccessStatus:200 }
 app.use(cors());
 
-app.get('/pavan', (req,res)=>res.json(uuidv4()))
+app.get('/api/pavan', (req,res)=>res.json(uuidv4()))
 
 //filter
 
-app.use('/products', filter)
+app.use('/api/products', filter)
   
 //Product
 
