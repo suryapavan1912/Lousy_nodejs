@@ -12,7 +12,7 @@ app.get('/api/pavan', (req,res)=>res.json(uuidv4()))
 
 //filter
 
-app.use('/api/products', filter)
+app.use('/products', filter)
   
 //Product
 
