@@ -3,7 +3,7 @@ import express from 'express';
 
 
 
-function filter(req, res, next){
+export const filter = function(req, res, next){
   const filters = req.query;
   const filteredUsers = data.filter(user => {
     let isValid = true;
@@ -15,16 +15,22 @@ function filter(req, res, next){
   res.send(filteredUsers);
 };
 
-export { filter }
 
-function product(req,res) {
+export const product = function(req,res) {
 
     const key = req.params.key    
     const product = data.filter(item => item.id == key)
     res.json(product[0])
 }
 
-export { product }
+export const cart = function(req,res) {
+
+  const key = req.params.key    
+  const product = data.filter(item => item.id == key)
+  res.json(product[0])
+}
+
+
 
 
 
