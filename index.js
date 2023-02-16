@@ -1,21 +1,34 @@
 import express from 'express';
+import mongoose from 'mongoose';
 import cors from 'cors'
 import { v4 as uuidv4 } from 'uuid';
 import { filter , product } from './functions/functions.js';
+import { Createuser, getuserdata, sendusersdata } from './user.js';
+import bodyParser from 'body-parser';
+
 const app = express();
 const Port = 9000;
 
 // const corsOptions ={ origin:'http://localhost:3000' , credentials:true , optionSuccessStatus:200 }
 app.use(cors());
-
+app.use(bodyParser.urlencoded({extended : false}))
+app.use(bodyParser.json())
 app.get('/api/pavan', (req,res)=>res.json(uuidv4()))
 
-//filter
+async function main() {
+  await mongoose.connect('mongodb+srv://pavan:pavan@cluster0.u9inhab.mongodb.net/?retryWrites=true&w=majority' );
+}
+main().catch(err => console.log(err.message));
 
+//user
+app.post('/createuser', Createuser)
+app.get('/user', sendusersdata )
+app.post('/user', getuserdata )
+
+//filter
 app.get('/products', filter )
   
 //Product
-
 app.get('/product/:key', product )
 
 app.listen(Port, () => {
