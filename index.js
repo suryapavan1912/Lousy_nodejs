@@ -2,9 +2,11 @@ import express from 'express';
 import mongoose from 'mongoose';
 import cors from 'cors'
 import { v4 as uuidv4 } from 'uuid';
-import { filter , product } from './functions/functions.js';
-import { Createuser, getuserdata, sendusersdata } from './user.js';
+import { filter , product } from './functions/product.js';
+import { Createuser , Updateuser } from './functions/user.js';
 import bodyParser from 'body-parser';
+import { Sendcart, Updatecart } from './functions/cart.js';
+import { Deleteitem } from './functions/deleteitem.js';
 
 const app = express();
 const Port = 9000;
@@ -20,10 +22,18 @@ async function main() {
 }
 main().catch(err => console.log(err.message));
 
+//Deleteitem
+app.post('/delete' , Deleteitem)
 //user
-app.post('/createuser', Createuser)
-app.get('/user', sendusersdata )
-app.post('/user', getuserdata )
+app.post('/user', Createuser)
+app.get('/user', Updateuser )
+
+//cart
+app.post('/cart', Updatecart )
+// app.get('/cart', Sendcart)
+
+
+//products
 
 //filter
 app.get('/products', filter )

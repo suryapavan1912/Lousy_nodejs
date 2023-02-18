@@ -4,17 +4,38 @@ const userSchema = new mongoose.Schema({
     id : String,
     email : String,
     name : String,
-    Cart : [String],
-    Orders : [String],
-    Wishlist : [String]
+    cart : [
+      {
+        id : String,
+        varient : [{
+        size : String,
+        quantity : Number
+      }],
+        info : {
+          brand : String,
+          title : String,
+          image : String,
+          price : Number,
+          oldprice : Number,
+        }
+      }
+    ],
+    orders : [String],
+    wishlist : [String]
   });
 
-  const userinfo = mongoose.model('users', userSchema);
+const userinfo = mongoose.model('users', userSchema);
 
+export default userinfo
 
-// const pavan = new userinfo({ id: 'B6kHCF1gZVYawCmNtBZGzd4XOI22',Cart : ['e489e989-4090-424c-8382-64f3bfde86af','e25b93a2-5152-4321-87b2-b6766ae1746f'] });
-// console.log(pavan);
-// await pavan.save()
+// const dataSchema = new mongoose.Schema({
+//     id : String,
+//     email : String,
+//     name : String,
+//     Cart : [String],
+//     Orders : [String],
+//     Wishlist : [String]
+//   });
 
+// export const datainfo = mongoose.model('lousy_data', userSchema);
 
-export default userinfo;

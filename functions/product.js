@@ -3,7 +3,7 @@ import express from 'express';
 
 
 
-export const filter = function(req, res, next){
+export const filter = (req, res, next)=>{
   const filters = req.query;
   const filteredUsers = data.filter(user => {
     let isValid = true;
