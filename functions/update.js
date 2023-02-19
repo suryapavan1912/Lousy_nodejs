@@ -34,30 +34,50 @@ export const Updatecart = async(req,res)=>{
 
 }
 
-export const Sendcart = async(req,res)=>{
+export const Updatewishlist = async(req,res)=>{
 
-    const filters = req.query;
+    const { id , product } = req.body
     try {
-        const [ userdata ] = await userinfo.find({'id':filters.userid});
-        // const cartArray = userdata?.Cart
-        // const cartitems = []
-        // products.map(product=>{
-        //     cartArray.map(item =>{
-        //     })
-        // })
-        console.log(userdata);
-        // res.json(userdata)
-
-    } catch (error) {
-        console.log(error.message);
+    const [ userdata ] = await userinfo.find({id})
+    let newitem = true
+    userdata.wishlist?.map(item=>{
+        if (product.id === item.id){
+            newitem = false;
+        }})
+    if(!newitem){
+        userdata.wishlist = userdata.wishlist.filter(item => item.id !== product.id )
     }
-
+    else{
+        userdata.wishlist.push(product)
+    }
+    // await userdata.save()
+    // res.json(userdata)
+    console.log(userdata.wishlist);
+    }
+    catch (error) {
+        console.log(error.messsage);
+    }
 }
 
+// export const Sendcart = async(req,res)=>{
 
+//     const filters = req.query;
+//     try {
+//         const [ userdata ] = await userinfo.find({'id':filters.userid});
+//         // const cartArray = userdata?.Cart
+//         // const cartitems = []
+//         // products.map(product=>{
+//         //     cartArray.map(item =>{
+//         //     })
+//         // })
+//         console.log(userdata);
+//         // res.json(userdata)
 
+//     } catch (error) {
+//         console.log(error.message);
+//     }
 
-
+// }
 
 
 // export const Updatecart = async(req,res)=>{

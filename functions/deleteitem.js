@@ -23,5 +23,4 @@ export const Deleteitem = async(req,res)=>{
     catch (error) {
         console.log(error.messsage);
     }
-
 }

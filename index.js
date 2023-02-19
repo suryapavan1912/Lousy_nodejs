@@ -5,7 +5,7 @@ import { v4 as uuidv4 } from 'uuid';
 import { filter , product } from './functions/product.js';
 import { Createuser , Updateuser } from './functions/user.js';
 import bodyParser from 'body-parser';
-import { Sendcart, Updatecart } from './functions/cart.js';
+import { Updatecart, Updatewishlist } from './functions/update.js';
 import { Deleteitem } from './functions/deleteitem.js';
 
 const app = express();
@@ -23,14 +23,17 @@ async function main() {
 main().catch(err => console.log(err.message));
 
 //Deleteitem
-app.post('/delete' , Deleteitem)
 //user
 app.post('/user', Createuser)
 app.get('/user', Updateuser )
 
 //cart
 app.post('/cart', Updatecart )
+app.post('/cart/delete' , Deleteitem)
 // app.get('/cart', Sendcart)
+
+//wishlist
+app.post('/wishlist' , Updatewishlist )
 
 
 //products
