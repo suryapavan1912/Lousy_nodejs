@@ -21,7 +21,18 @@ const userSchema = new mongoose.Schema({
       }
     ],
     orders : [String],
-    wishlist : [String]
+    wishlist : [
+      {
+        id : String,
+        info : {
+          brand : String,
+          title : String,
+          image : String,
+          price : Number,
+          oldprice : Number,
+        }
+      }
+    ]
   });
 
 const userinfo = mongoose.model('users', userSchema);
