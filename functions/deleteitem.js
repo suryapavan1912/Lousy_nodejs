@@ -23,5 +23,18 @@ export const Deleteitem = async(req,res)=>{
     catch (error) {
         console.log(error.messsage);
     }
+}
 
+export const Deletewish = async(req,res)=>{
+
+    try{
+    const { id , product } = req.body
+    const [ userdata ] = await userinfo.find({id})
+    userdata.wishlist = userdata.wishlist.filter(item => item.id !== product)
+    await userdata.save()
+    res.json(userdata)
+    }
+    catch (error) {
+        console.log(error.messsage);
+    }
 }

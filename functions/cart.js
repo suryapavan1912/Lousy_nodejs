@@ -44,12 +44,8 @@ export const Updatelist = async(req,res)=>{
     userdata.wishlist?.map(item=>{
         if (product.id === item.id){  newproduct = false  }})
         
-    if(newproduct){
-        userdata.wishlist.push(product)
-        }
-    else{
-        userdata.wishlist = userdata.wishlist.filter(item => item.id !== product.id)
-    }
+    if(newproduct){ userdata.wishlist.push(product) }
+    
     await userdata.save()
     res.json(userdata)
     }
