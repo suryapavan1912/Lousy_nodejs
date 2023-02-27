@@ -634,7 +634,8 @@ const products = [
         "featured"      : false,
         "trending"      : true,
         "exclusive"     : false
-    },    {
+    },
+    {
         "id"            : "ed4da137-8965-4325-be10-ed60a01d8696",
         "ajio"          : "https://luxe.ajio.com/diesel-d-vider-lightly-washed-carrot-fit-jeans/p/410167514_01?user=old",
         "brand"         : "DIESEL",
@@ -653,7 +654,8 @@ const products = [
         "featured"      : false,
         "trending"      : false,
         "exclusive"     : true
-    },    {
+    },
+    {
         "id"            : "cfa6815e-d3a7-49f2-adc1-adf1ab8836f8",
         "ajio"          : "https://luxe.ajio.com/dsquared2-cool-guy-washed-slim-fit-jeans/p/460870284_blue?user=old",
         "brand"         : "DSQUARED2",
@@ -673,6 +675,105 @@ const products = [
         "trending"      : false,
         "exclusive"     : false
     },
+    {
+        "id"            : "c8b68e4f-f565-4aad-8280-782dfe5f5780",
+        "ajio"          : "https://luxe.ajio.com/hugo-boss-slim-fit-chinos-in-stretch-cotton-gabardine/p/410311439_211?user=old",
+        "brand"         : "HUGO BOSS",
+        "title"         : "Slim Fit Chinos In Stretch Cotton Gabardine",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20221118/Zscm/6377673caeb269659c9c042a/-1117Wx1400H-410311439-211-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221118/lh0n/637765bef997ddfdbd83d374/-1117Wx1400H-410311439-211-MODEL4.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221118/YVdb/6377644faeb269659c9bf4c0/-1117Wx1400H-410311439-211-MODEL5.jpg"
+                          ],
+        "price"         : 18000,
+        "description"   : ["Slim Fit","Hand wash", "97% cotton, 3% elastane"],
+        "type"          : "clothing",
+        "category"      : "Trousers",
+        "gender"        : "Men",
+        "featured"      : true,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "4911b502-4aba-4548-8c9b-9eb55c9a85be",
+        "ajio"          : "https://luxe.ajio.com/diesel-p-calton-sweatpants/p/410243616_5ii?user=old",
+        "brand"         : "DIESEL",
+        "title"         : "P-CALTON Sweatpants",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/h5c/hb4/16377171935262/-1117Wx1400H-410243616-5ii-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/hdd/hbd/16377163874334/-1117Wx1400H-410243616-5ii-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/h3c/hbb/16377159548958/-1117Wx1400H-410243616-5ii-MODEL5.jpg"
+                          ],
+        "oldprice"      : 13990,
+        "price"         : 8394,
+        "description"   : ["Relaxed Fit","Machine wash cold", "Body: 100% cotton; Ribbing: 95% cotton, 5% elastane"],
+        "type"          : "clothing",
+        "category"      : "Trousers",
+        "gender"        : "Men",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "2a2546a2-722f-42b5-93c6-30a378c861ee",
+        "ajio"          : "https://luxe.ajio.com/emporio-armani-lounge-pants-with-insert-pockets/p/410367030_0708?user=old",
+        "brand"         : "EMPORIO ARMANI",
+        "title"         : "Lounge Pants With Insert Pockets",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20221227/Gaa9/63ab2349aeb269659c109a1a/-1117Wx1400H-410367030-0708-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221227/NgYw/63ab0c5faeb269659c0feaa0/-1117Wx1400H-410367030-0708-MODEL4.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221227/it7A/63ab0df4f997ddfdbdfbde40/-1117Wx1400H-410367030-0708-MODEL3.jpg"
+                          ],
+        "price"         : 40000,
+        "description"   : ["Regular fit","Mid Rise", "100% modal"],
+        "type"          : "clothing",
+        "category"      : "Trousers",
+        "gender"        : "Men",
+        "featured"      : false,
+        "trending"      : true,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "db9c4c80-7df9-4825-bf96-03141be075ef",
+        "ajio"          : "https://luxe.ajio.com/rr-blue-slim-fit-flat-front-trousers/p/464986034_beige?user=old",
+        "brand"         : "RR BLUE",
+        "title"         : "Slim Fit Flat-Front Trousers",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220913/9klA/6320be25aeb269dbb38739e1/-1117Wx1400H-464986034-beige-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220913/gbvD/6320be25aeb269dbb3873a09/-1117Wx1400H-464986034-beige-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220913/NLug/6320be25aeb269dbb3873a0a/-1117Wx1400H-464986034-beige-MODEL4.jpg"
+                          ],
+        "price"         : 6499,
+        "description"   : ["Slim Fit","Dry clean", "Cotton"],
+        "type"          : "clothing",
+        "category"      : "Trousers",
+        "gender"        : "Men",
+        "featured"      : true,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "ad3a82e4-93af-4493-951d-d55b7b245fed",
+        "ajio"          : "https://luxe.ajio.com/all-saints-kainan-linen-blend-slim-trousers/p/469166670_khaki?user=old",
+        "brand"         : "ALL SAINTS",
+        "title"         : "KAINAN Linen BLEND Slim Trousers",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220430/FH87/626c3641aeb26921af4cc6d4/-1117Wx1400H-469166670-khaki-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220430/qaNH/626c3f3daeb26921af4ce9e5/-1117Wx1400H-469166670-khaki-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220430/2Hq6/626c345bf997dd03e28bb5e8/-1117Wx1400H-469166670-khaki-MODEL3.jpg"
+                          ],
+        "oldprice"      : 16999,
+        "price"         : 10199,
+        "description"   : ["Straight Fit","Machine wash cold", "73% lyocell, 27% linen"],
+        "type"          : "clothing",
+        "category"      : "Trousers",
+        "gender"        : "Men",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    
+    
     ]
 
 
