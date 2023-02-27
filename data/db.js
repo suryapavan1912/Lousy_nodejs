@@ -731,7 +731,7 @@ const products = [
         "gender"        : "Men",
         "featured"      : false,
         "trending"      : true,
-        "exclusive"     : false
+        "exclusive"     : true
     },
     {
         "id"            : "db9c4c80-7df9-4825-bf96-03141be075ef",
@@ -770,9 +770,108 @@ const products = [
         "gender"        : "Men",
         "featured"      : false,
         "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "89a254b9-4afc-4791-9ef0-7ba8cf1da6f2",
+        "ajio"          : "https://www.luxe.ajio.com/all-saints-miller-sizeme-washed-skinny-jean/p/469046243_black?user=old",
+        "brand"         : "ALL SAINTS",
+        "title"         : "Miller Sizeme Washed Skinny Jean",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20211122/ZSDA/619bb103aeb2690110cf5f06/-1117Wx1400H-469046243-black-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20211122/wH6d/619bb4c8f997ddf8f1113c63/-1117Wx1400H-469046243-black-MODEL3.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20211122/vRMF/619bbb61f997ddf8f111625e/-1117Wx1400H-469046243-black-MODEL5.jpg"
+                          ],
+        "oldprice"      : 11999,
+        "price"         : 6000,
+        "description"   : ["5-pocket style","Dry clean","89% cotton, 6% polyester, 5% lycra"],
+        "type"          : "clothing",
+        "category"      : "Jeans",
+        "gender"        : "Women",
+        "featured"      : false,
+        "trending"      : false,
         "exclusive"     : true
     },
-    
+    {
+        "id"            : "97c4c4a9-49ce-4e68-872e-7352eac32e0f",
+        "ajio"          : "https://www.luxe.ajio.com/diesel-d-rifty-medium-washed-slim-fit-jeans/p/410167421_02?user=old",
+        "brand"         : "DIESEL",
+        "title"         : "D-RIFTY Medium Washed Slim Fit Jeans",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/ha5/hc3/16847588261918/-1117Wx1400H-410167421-02-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/hdd/haf/16847589703710/-1117Wx1400H-410167421-02-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/h1d/h52/16847592456222/-1117Wx1400H-410167421-02-MODEL3.jpg"
+                          ],
+        "oldprice"      : 17990,
+        "price"         : 10794,
+        "description"   : ["Versatile fit","Hand wash","98% cotton, 2% elastane"],
+        "type"          : "clothing",
+        "category"      : "Jeans",
+        "gender"        : "Women",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "a7fe9ebd-23c9-419e-94d4-a0c355f10fba",
+        "ajio"          : "https://www.luxe.ajio.com/paige-sarah-slim-washed-distressed-jeans/p/460959022_blue?user=old",
+        "brand"         : "PAIGE",
+        "title"         : "Sarah Slim Washed Distressed Jeans",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210907/0H28/6137a25f7cdb8cb8241b65cc/-1117Wx1400H-460959022-blue-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210907/dYM0/6137a082aeb269a2688d5dee/-1117Wx1400H-460959022-blue-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210907/A3xq/61378bf47cdb8cb8241b28af/-1117Wx1400H-460959022-blue-MODEL4.jpg"
+                          ],
+        "oldprice"      : 22999,
+        "price"         : 11500,
+        "description"   : ["Versatile fit","Hand wash","98% cotton, 2% elastane"],
+        "type"          : "clothing",
+        "category"      : "Jeans",
+        "gender"        : "Women",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "8afcd9d7-8ae7-467f-8af3-9c2915c3cf63",
+        "ajio"          : "https://www.luxe.ajio.com/diesel-mharky-lightly-washed-skinny-fit-jeans/p/410204445_01?user=old",
+        "brand"         : "DIESEL",
+        "title"         : "MHARKY Lightly Washed Skinny Fit Jeans",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/h3a/h21/16847906832414/-1117Wx1400H-410204445-01-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/h75/hc4/16847901261854/-1117Wx1400H-410204445-01-MODEL4.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/hd5/h8f/16847909650462/-1117Wx1400H-410204445-01-MODEL6.jpg"
+                          ],
+        "oldprice"      : 34990,
+        "price"         : 20994,
+        "description"   : ["Versatile fit","Hand wash","98% cotton, 2% elastane"],
+        "type"          : "clothing",
+        "category"      : "Jeans",
+        "gender"        : "Women",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "0e452ffb-661d-44bc-8771-c83d2d28573b",
+        "ajio"          : "https://www.luxe.ajio.com/paige-cindy-washed-twisted-seam-split-jeans/p/460958999_pink?user=old",
+        "brand"         : "PAIGE",
+        "title"         : "Cindy Washed Twisted Seam Split Jeans",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20211123/Mgm1/619d0838f997ddf8f115101a/-1117Wx1400H-460958999-pink-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20211123/oIyD/619d102af997ddf8f1153c69/-1117Wx1400H-460958999-pink-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20211123/7zFE/619d065ff997ddf8f115056a/-1117Wx1400H-460958999-pink-MODEL4.jpg"
+                          ],
+        "oldprice"      : 22999,
+        "price"         : 11500,
+        "description"   : ["High Rise","Hand wash","54% cotton, 44% rayon, 2% spandex"],
+        "type"          : "clothing",
+        "category"      : "Jeans",
+        "gender"        : "Women",
+        "featured"      : false,
+        "trending"      : true,
+        "exclusive"     : true
+    },
     
     ]
 
