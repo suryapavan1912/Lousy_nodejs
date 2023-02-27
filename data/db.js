@@ -575,7 +575,104 @@ const products = [
         "trending"      : false,
         "exclusive"     : true
     },
-
+    {
+        "id"            : "e367c0db-236e-4c46-aca0-062919d70215",
+        "ajio"          : "https://luxe.ajio.com/hugo-boss-slim-fit-denim-jeans/p/410227500_navy?user=old",
+        "brand"         : "HUGO BOSS",
+        "title"         : "Slim Fit Denim Jeans",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210204/IYBg/601afe3caeb26969815cac8d/-1117Wx1400H-410227500-navy-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210204/UaBF/601b0ccc7cdb8c1f14356e2d/-1117Wx1400H-410227500-navy-MODEL3.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210204/nYts/601aec017cdb8c1f14352c1c/-1117Wx1400H-410227500-navy-MODEL2.jpg"
+                          ],
+        "oldprice"      : 17500,
+        "price"         : 12250,
+        "description"   : ["5-pocket styling","Machine wash", "Cotton Blend"],
+        "type"          : "clothing",
+        "category"      : "Jeans",
+        "gender"        : "Men",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "6ae5a81c-a284-4067-bf2a-e480a99f1a45",
+        "ajio"          : "https://luxe.ajio.com/true-religion-mid-rise-skinny-fit-jeans/p/465410738_black?user=old",
+        "brand"         : "TRUE RELIGION",
+        "title"         : "Mid-Rise Skinny Fit Jeans",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20221209/NkUK/63924d12f997ddfdbdc8ccdd/-1117Wx1400H-465410738-black-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221209/ZSNx/63924d12f997ddfdbdc8cd22/-1117Wx1400H-465410738-black-MODEL5.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221209/DBmB/63924d12f997ddfdbdc8cd26/-1117Wx1400H-465410738-black-MODEL2.jpg"
+                          ],
+        "oldprice"      : 14999,
+        "price"         : 11999,
+        "description"   : ["Mid Rise","Machine wash cold", "99% cotton, 1% elastane"],
+        "type"          : "clothing",
+        "category"      : "Jeans",
+        "gender"        : "Men",
+        "featured"      : true,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "30785fd2-f226-4755-b147-7e474d68cb02",
+        "ajio"          : "https://luxe.ajio.com/diesel-d-vided-lightly-washed-straight-fit-jeans/p/410167448_01?user=old",
+        "brand"         : "DIESEL",
+        "title"         : "D-VIDED Lightly Washed Straight Fit Jeans",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/h77/hdf/16865303855134/-1117Wx1400H-410167448-01-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/hb0/h7f/16865310539806/-1117Wx1400H-410167448-01-MODEL3.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/h45/h99/16865312374814/-1117Wx1400H-410167448-01-MODEL5.jpg"
+                          ],
+        "oldprice"      : 16999,
+        "price"         : 10194,
+        "description"   : ["Mid Rise","Machine wash cold", "99% cotton, 1% elastane"],
+        "type"          : "clothing",
+        "category"      : "Jeans",
+        "gender"        : "Men",
+        "featured"      : false,
+        "trending"      : true,
+        "exclusive"     : false
+    },    {
+        "id"            : "ed4da137-8965-4325-be10-ed60a01d8696",
+        "ajio"          : "https://luxe.ajio.com/diesel-d-vider-lightly-washed-carrot-fit-jeans/p/410167514_01?user=old",
+        "brand"         : "DIESEL",
+        "title"         : "D-VIDER Lightly Washed Carrot Fit Jeans",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/h1a/h04/16864958611486/-1117Wx1400H-410167514-01-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/h0f/hd9/16864966541342/-1117Wx1400H-410167514-01-MODEL4.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/h5b/h83/16864961953822/-1117Wx1400H-410167514-01-MODEL3.jpg"
+                          ],
+        "oldprice"      : 19990,
+        "price"         : 11994,
+        "description"   : ["Mid Rise","Machine wash cold", "99% cotton, 1% elastane"],
+        "type"          : "clothing",
+        "category"      : "Jeans",
+        "gender"        : "Men",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },    {
+        "id"            : "cfa6815e-d3a7-49f2-adc1-adf1ab8836f8",
+        "ajio"          : "https://luxe.ajio.com/dsquared2-cool-guy-washed-slim-fit-jeans/p/460870284_blue?user=old",
+        "brand"         : "DSQUARED2",
+        "title"         : "Cool Guy Washed Slim Fit Jeans",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/eNo0/6140f0c1aeb269a268936ff2/-1117Wx1400H-460870284-blue-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/iDb3/614103f4f997ddce89c76702/-1117Wx1400H-460870284-blue-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/jk10/614109a17cdb8cb8242464a2/-1117Wx1400H-460870284-blue-MODEL4.jpg"
+                          ],
+        "oldprice"      : 39999,
+        "price"         : 20000,
+        "description"   : ["5-pocket styling","Machine wash cold", "98% cotton, 2% elastane"],
+        "type"          : "clothing",
+        "category"      : "Jeans",
+        "gender"        : "Men",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
     ]
 
 
