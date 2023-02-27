@@ -872,7 +872,106 @@ const products = [
         "trending"      : true,
         "exclusive"     : true
     },
-    
+    {
+        "id"            : "a8c28b8f-96f4-4076-9137-1a80bfdb259c",
+        "ajio"          : "https://www.luxe.ajio.com/diesel-o-beth-mini-skirt/p/410256644_7cs?user=old",
+        "brand"         : "DIESEL",
+        "title"         : "O-BETH Mini Skirt",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/he1/hbe/16392114864158/-1117Wx1400H-410256644-7cs-MODEL.jpg " ,
+                            "https://assets.ajio.com/medias/sys_master/root/h0f/h90/16392093728798/-1117Wx1400H-410256644-7cs-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/h1c/h38/16392100118558/-1117Wx1400H-410256644-7cs-MODEL5.jpg"
+                          ],
+        "oldprice"      : 14990,
+        "price"         : 8994,
+        "description"   : ["Regular fit","Dry clean","cotton"],
+        "type"          : "clothing",
+        "category"      : "Skirts",
+        "gender"        : "Women",
+        "featured"      : false,
+        "trending"      : true,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "5f93b668-373b-47cb-bcd8-01996c92523c",
+        "ajio"          : "https://www.luxe.ajio.com/loveshackfancy-rhodes-floral-print-a-line-skirt/p/469095639_pink?user=old",
+        "brand"         : "LOVESHACKFANCY",
+        "title"         : "Rhodes Floral Print A-Line Skirt",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220315/3IRd/622f9bacaeb26921afd7d398/-1117Wx1400H-469095639-pink-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220315/XfLZ/622fb715aeb26921afd914d8/-1117Wx1400H-469095639-pink-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220315/QPB1/622fb3e4f997dd03e2133ee6/-1117Wx1400H-469095639-pink-MODEL4.jpg"
+                          ],
+        "oldprice"      : 28999,
+        "price"         : 14500,
+        "description"   : ["Sweet mini has a fixed waist","Dry clean","100% Silk"],
+        "type"          : "clothing",
+        "category"      : "Skirts",
+        "gender"        : "Women",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "7ec49c0c-aaa3-475f-b1c2-63e1cc616a2f",
+        "ajio"          : "https://www.luxe.ajio.com/loveshackfancy-marseille-argyle-checked-straight-skirt/p/469095634_lightblue?user=old",
+        "brand"         : "LOVESHACKFANCY",
+        "title"         : "Marseille Argyle Checked Straight Skirt",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220315/g7N3/622fad2af997dd03e212f430/-1117Wx1400H-469095634-lightblue-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220315/Ax3l/622fb193aeb26921afd8c968/-1117Wx1400H-469095634-lightblue-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220315/JUvf/622fa24baeb26921afd7ecc5/-1117Wx1400H-469095634-lightblue-MODEL3.jpg"
+                          ],
+        "oldprice"      : 28999,
+        "price"         : 14500,
+        "description"   : ["Short and sweet with a ribbed elastic waistband","Dry clean","90% wool, 10% cashmere"],
+        "type"          : "clothing",
+        "category"      : "Skirts",
+        "gender"        : "Women",
+        "featured"      : false,
+        "trending"      : true,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "f0a8ffc8-63f3-475f-931f-a29e2d8e8a8d",
+        "ajio"          : "https://www.luxe.ajio.com/paige-textured-mid-rise-skirt/p/460959034_black?user=old",
+        "brand"         : "PAIGE",
+        "title"         : "Textured Mid-Rise Skirt",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210907/ir2B/6137a7117cdb8cb8241b7286/-1117Wx1400H-460959034-black-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210907/ChtR/613780247cdb8cb8241b0771/-1117Wx1400H-460959034-black-MODEL5.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210907/YquB/6137946a7cdb8cb8241b3fc5/-1117Wx1400H-460959034-black-MODEL4.jpg"
+                          ],
+        "oldprice"      : 18999,
+        "price"         : 9500,
+        "description"   : ["Zip fly with button closure","Hand wash cold separately","56% cotton, 44% rayon"],
+        "type"          : "clothing",
+        "category"      : "Skirts",
+        "gender"        : "Women",
+        "featured"      : true,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "87f1e908-6699-4c82-a66e-16618fa4a0e7",
+        "ajio"          : "https://www.luxe.ajio.com/loveshackfancy-floral-print-flared-skirt/p/469100921_pinkwhite?user=old",
+        "brand"         : "LOVESHACKFANCY",
+        "title"         : "Floral Print Flared Skirt",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220315/DjF2/622fa4e0aeb26921afd7f626/-1117Wx1400H-469100921-pinkwhite-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220315/5GB6/622f8e78f997dd03e211d548/-1117Wx1400H-469100921-pinkwhite-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220315/mmmY/622fb6dcf997dd03e2137e7d/-1117Wx1400H-469100921-pinkwhite-MODEL4.jpg"
+                          ],
+        "oldprice"      : 26999,
+        "price"         : 13500,
+        "description"   : ["Dry clean","100% Cotton"],
+        "type"          : "clothing",
+        "category"      : "Skirts",
+        "gender"        : "Women",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
     ]
 
 
