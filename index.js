@@ -11,7 +11,7 @@ import { Deleteitem, Deletewish } from './functions/deleteitem.js';
 const app = express();
 const Port = 9000;
 
-const corsOptions ={ origin:'http://localhost:3000 || https://lousy-d1b70.web.app/' , credentials:true , optionSuccessStatus:200 }
+const corsOptions ={ origin:'http://localhost:3000 || https://lousy-d1b70.web.app' , credentials:true , optionSuccessStatus:200 }
 app.use(cors(corsOptions));
 app.use(bodyParser.urlencoded({extended : false}))
 app.use(bodyParser.json())
