@@ -5,7 +5,11 @@ const products = [
         "ajio"          : "https://www.luxe.ajio.com/hunkemoller-arrow-logo-print-tank-top/p/410337796_blk?user=old",
         "brand"         : "HUNKEMOLLER",
         "title"         : "Arrow Logo Print Tank Top",
-        "images"        : [ "https://assets.ajio.com/medias/sys_master/root/20220727/21nu/62e072ecf997dd03e2fbbf1b/-1117Wx1400H-410337796-blk-MODEL.jpg" , "https://assets.ajio.com/medias/sys_master/root/20220727/nsJV/62e07919f997dd03e2fbe428/-1117Wx1400H-410337796-blk-MODEL2.jpg" , "https://assets.ajio.com/medias/sys_master/root/20220727/RPkc/62e041d7f997dd03e2f9dc09/-1117Wx1400H-410337796-blk-MODEL4.jpg" ],
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220727/21nu/62e072ecf997dd03e2fbbf1b/-1117Wx1400H-410337796-blk-MODEL.jpg" , 
+                            "https://assets.ajio.com/medias/sys_master/root/20220727/nsJV/62e07919f997dd03e2fbe428/-1117Wx1400H-410337796-blk-MODEL2.jpg" , 
+                            "https://assets.ajio.com/medias/sys_master/root/20220727/RPkc/62e041d7f997dd03e2f9dc09/-1117Wx1400H-410337796-blk-MODEL4.jpg" 
+                          ],
         "oldprice"      : 1795,
         "price"         : 987,
         "description"   : [ "Breathable mesh, active stretch" , "Machine wash", "82% polyamide, 18% elastane" ],
@@ -21,7 +25,11 @@ const products = [
         "ajio"          : "https://www.luxe.ajio.com/hunkemoller-crew-neck-top-with-taping/p/410307798_samb?user=old",
         "brand"         : "HUNKEMOLLER",
         "title"         : "Crew-Neck Top With Taping",
-        "images"        : [ "https://assets.ajio.com/medias/sys_master/root/20220727/zBPO/62e07b68aeb26921afa040e3/-1117Wx1400H-410307798-samb-MODEL.jpg" , "https://assets.ajio.com/medias/sys_master/root/20220727/wnn4/62e07725f997dd03e2fbd897/-1117Wx1400H-410307798-samb-MODEL3.jpg" , "https://assets.ajio.com/medias/sys_master/root/20220727/Gui2/62e0484daeb26921af9e8125/-1117Wx1400H-410307798-samb-MODEL2.jpg" ],
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220727/zBPO/62e07b68aeb26921afa040e3/-1117Wx1400H-410307798-samb-MODEL.jpg" , 
+                            "https://assets.ajio.com/medias/sys_master/root/20220727/wnn4/62e07725f997dd03e2fbd897/-1117Wx1400H-410307798-samb-MODEL3.jpg" , 
+                            "https://assets.ajio.com/medias/sys_master/root/20220727/Gui2/62e0484daeb26921af9e8125/-1117Wx1400H-410307798-samb-MODEL2.jpg" 
+                          ],
         "oldprice"      : 2795,
         "price"         : 2096,
         "description"   : [ "Relaxed Fit" , "Machine wash", "95% polyester, 5% elastane" ],
@@ -37,7 +45,11 @@ const products = [
         "ajio"          : "https://www.luxe.ajio.com/hunkemoller-ribbed-tank-crop-top/p/410345936_pnkyrw?user=old",
         "brand"         : "HUNKEMOLLER",
         "title"         : "Ribbed Tank Crop Top",
-        "images"        : [ "https://assets.ajio.com/medias/sys_master/root/20221102/BCWA/63628a4af997ddfdbd51882e/-1117Wx1400H-410345936-pnkyrw-MODEL.jpg" , "https://assets.ajio.com/medias/sys_master/root/20221102/lPAd/636289d7aeb269659c6ba793/-1117Wx1400H-410345936-pnkyrw-MODEL2.jpg" , "https://assets.ajio.com/medias/sys_master/root/20221102/8ypn/636280e9aeb269659c6b7879/-1117Wx1400H-410345936-pnkyrw-MODEL3.jpg" ],
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20221102/BCWA/63628a4af997ddfdbd51882e/-1117Wx1400H-410345936-pnkyrw-MODEL.jpg" , 
+                            "https://assets.ajio.com/medias/sys_master/root/20221102/lPAd/636289d7aeb269659c6ba793/-1117Wx1400H-410345936-pnkyrw-MODEL2.jpg" , 
+                            "https://assets.ajio.com/medias/sys_master/root/20221102/8ypn/636280e9aeb269659c6b7879/-1117Wx1400H-410345936-pnkyrw-MODEL3.jpg" 
+                          ],
         "oldprice"      : 1495,
         "price"         : 822,
         "description"   : [  "Machine wash", "98% cotton, 2% elastane" ],
@@ -53,7 +65,11 @@ const products = [
         "ajio"          : "https://www.luxe.ajio.com/hunkemoller-velour-camisole-with-lace-insert/p/410292404_qrtz?user=old",
         "brand"         : "HUNKEMOLLER",
         "title"         : "Velour Camisole With Lace Insert",
-        "images"        : [ "https://assets.ajio.com/medias/sys_master/root/20210622/lTEI/60d1fdb3f997ddb312e90bb1/-1117Wx1400H-410292404-qrtz-MODEL.jpg" , "https://assets.ajio.com/medias/sys_master/root/20210622/kTcE/60d20082f997ddb312e918ff/-1117Wx1400H-410292404-qrtz-MODEL2.jpg" , "https://assets.ajio.com/medias/sys_master/root/20210622/BZ66/60d1fbc3f997ddb312e901e0/-1117Wx1400H-410292404-qrtz-MODEL3.jpg" ],
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210622/lTEI/60d1fdb3f997ddb312e90bb1/-1117Wx1400H-410292404-qrtz-MODEL.jpg" , 
+                            "https://assets.ajio.com/medias/sys_master/root/20210622/kTcE/60d20082f997ddb312e918ff/-1117Wx1400H-410292404-qrtz-MODEL2.jpg" , 
+                            "https://assets.ajio.com/medias/sys_master/root/20210622/BZ66/60d1fbc3f997ddb312e901e0/-1117Wx1400H-410292404-qrtz-MODEL3.jpg" 
+                          ],
         "oldprice"      : 1795,
         "price"         : 987,
         "description"   : [ "Adjustable shoulder straps" , "Machine wash", "95% polyester, 5% elastane" ],
@@ -69,7 +85,11 @@ const products = [
         "ajio"          : "https://www.luxe.ajio.com/hunkemoller-velours-tube-top/p/410314553_blk?user=old",
         "brand"         : "HUNKEMOLLER",
         "title"         : "Velours Tube Top",
-        "images"        : [ "https://assets.ajio.com/medias/sys_master/root/20220727/gWo5/62e05e17f997dd03e2fb2797/-1117Wx1400H-410314553-blk-MODEL.jpg" , "https://assets.ajio.com/medias/sys_master/root/20220727/YD9r/62e06fa2aeb26921afa001bd/-1117Wx1400H-410314553-blk-MODEL2.jpg" , "https://assets.ajio.com/medias/sys_master/root/20220727/AZN7/62e040e2aeb26921af9e5e26/-1117Wx1400H-410314553-blk-MODEL3.jpg" ],
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220727/gWo5/62e05e17f997dd03e2fb2797/-1117Wx1400H-410314553-blk-MODEL.jpg" , 
+                            "https://assets.ajio.com/medias/sys_master/root/20220727/YD9r/62e06fa2aeb26921afa001bd/-1117Wx1400H-410314553-blk-MODEL2.jpg" , 
+                            "https://assets.ajio.com/medias/sys_master/root/20220727/AZN7/62e040e2aeb26921af9e5e26/-1117Wx1400H-410314553-blk-MODEL3.jpg" 
+                          ],
         "price"         : 1695,
         "description"   : [ "Relaxed Fit" , "Machine wash", "95% polyester, 5% elastane" ],
         "type"          :"clothing",
