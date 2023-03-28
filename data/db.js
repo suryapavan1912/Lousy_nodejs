@@ -1448,25 +1448,279 @@ const products = [
         "trending"      : false,
         "exclusive"     : false
     },
-    // {
-    //     "id"            : ,
-    //     "ajio"          : "",
-    //     "brand"         : "",
-    //     "title"         : "",
-    //     "images"        : [ 
-    //                         "" ,
-    //                         "" ,
-    //                         ""
-    //                       ],
-    //     "oldprice"      : ,
-    //     "price"         : ,
-    //     "description"   : ["","",""],
-    //     "type"          : "Accessories",
-    //     "category"      : "Ties",
-    //     "featured"      : false,
-    //     "trending"      : false,
-    //     "exclusive"     : false
-    // },
+    {
+        "id"            : "2a1d82cc-daee-4e62-a2c6-91f65d199d4d",
+        "ajio"          : "https://luxe.ajio.com/bobbi-brown-perfectly-defined-long-wear-brow-pencil--espresso-0-33-g-/p/4919421470_espresso?user=old",
+        "brand"         : "BOBBI BROWN",
+        "title"         : "Perfectly Defined Long-Wear Brow Pencil - Espresso (0.33 G)",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/slqo/6140ed197cdb8cb82424143a/-1117Wx1400H-4919421470-espresso-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/Bzf7/61411c55aeb269a26893cd54/-1117Wx1400H-4919421470-espresso-MODEL2.jpg" 
+                          ],
+        "price"         : 4600,
+        "description"   : ["A long-wearing brow pencil"],
+        "type"          : "Beauty",
+        "category"      : "Eyes",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "27e8b3c3-e88b-40a2-b17a-907fdd9358a0",
+        "ajio"          : "https://luxe.ajio.com/bobbi-brown-vitamin-enriched-eye-base--0/p/4919422250_multi?user=old",
+        "brand"         : "BOBBI BROWN",
+        "title"         : "Vitamin Enriched Eye Base - 0",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/UTOK/61411462f997ddce89c79bd2/-1117Wx1400H-4919422250-multi-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/lROp/614117b57cdb8cb824248bb2/-1117Wx1400H-4919422250-multi-MODEL2.jpg" 
+                          ],
+        "price"         : 4200,
+        "description"   : ["Primes and moisturizes undereye","Plumps and softens to create a smooth canvas"],
+        "type"          : "Beauty",
+        "category"      : "Eyes",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "8302577c-d72e-47dd-9eaa-c3be39c035c7",
+        "ajio"          : "https://luxe.ajio.com/bobbi-brown-eye-opening-mascara--black/p/4919421500_black?user=old",
+        "brand"         : "BOBBI BROWN",
+        "title"         : "Eye Opening Mascara - Black",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20211009/8q1u/6161b7ddf997ddce89136b50/-1117Wx1400H-4919421500-black-MODEL.jpg"
+                          ],
+        "price"         : 3450,
+        "description"   : ["High-impact and high-drama"],
+        "type"          : "Beauty",
+        "category"      : "Eyes",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "1f9b657d-00b5-468a-905f-b907d19739bc",
+        "ajio"          : "https://luxe.ajio.com/m-a-c-kajal-crayon-flourish-me-deep-1-6-g-/p/4919419010_flourishmedeep?user=old",
+        "brand"         : "M.A.C",
+        "title"         : "Kajal Crayon- Flourish Me Deep (1.6 G)",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/SBb9/614108b1aeb269a26893a431/-1117Wx1400H-4919419010-flourishmedeep-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/zlfu/61410dd0aeb269a26893aefb/-1117Wx1400H-4919419010-flourishmedeep-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/puZl/61411d597cdb8cb824249d4a/-1117Wx1400H-4919419010-flourishmedeep-MODEL3.jpg"
+                          ],
+        "price"         : 2500,
+        "description"   : ["Apply to lid directly","extremely soft and creamy kohl liner"],
+        "type"          : "Beauty",
+        "category"      : "Eyes",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "2423ea7d-ea49-45a7-b9b1-7dde3cf55f78",
+        "ajio"          : "https://luxe.ajio.com/bobbi-brown-skin-long-wear-weightless-foundation--golden-natural-w-058/p/4919421680_goldennaturalw058?user=old",
+        "brand"         : "BOBBI BROWN",
+        "title"         : "Skin Long-Wear Weightless Foundation - Golden Natural",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210922/UVFQ/614b54a6aeb269a2689f37f0/-1117Wx1400H-4919421680-goldennaturalw058-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210922/V1XL/614b51d5f997ddce89d70189/-1117Wx1400H-4919421680-goldennaturalw058-MODEL3.jpg"
+                          ],
+        "price"         : 4300,
+        "description"   : ["Sweat and humidity resistant","Paraben-free"],
+        "type"          : "Beauty",
+        "category"      : "Face",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "9dcbbd9c-9e45-4f65-a339-fd28670c736a",
+        "ajio"          : "https://luxe.ajio.com/bobbi-brown-soothing-cleansing-oil/p/4919421950_multi?user=old",
+        "brand"         : "BOBBI BROWN",
+        "title"         : "Soothing Cleansing Oil",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/8WJw/6140f4faaeb269a26893794c/-1117Wx1400H-4919421950-multi-MODEL.jpg"
+                          ],
+        "price"         : 3900,
+        "description"   : ["","",""],
+        "type"          : "Beauty",
+        "category"      : "Face",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "3bc304f0-fc51-4f74-8009-44ff010dfc18",
+        "ajio"          : "https://luxe.ajio.com/clinique-even-better-clinical-serum-foundation-spf-20-cn-20-fair/p/4919411300_cn20fair?user=old",
+        "brand"         : "CLINIQUE",
+        "title"         : "Even Better Clinical Serum Foundation",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20211214/cReQ/61b79953f997ddf8f14e0841/-1117Wx1400H-4919411300-cn20fair-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20211214/5vrC/61b79d77f997ddf8f14e1b23/-1117Wx1400H-4919411300-cn20fair-MODEL2.jpg"
+                          ],
+        "price"         : 3750,
+        "description"   : ["skin is 56% more moisturized.* In 12 weeks"],
+        "type"          : "Beauty",
+        "category"      : "Face",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "d8f562a9-3f9a-4428-8d43-598eab9b299a",
+        "ajio"          : "https://luxe.ajio.com/bobbi-brown-skin-long-wear-fluid-powder-foundation-spf-20--honey-w-046/p/4919422190_honeyw064?user=old",
+        "brand"         : "BOBBI BROWN",
+        "title"         : "Skin Long-Wear Fluid Powder Foundation",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/qwpV/6140f56ff997ddce89c73dae/-1117Wx1400H-4919422190-honeyw064-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/6lex/614102287cdb8cb824244d6e/-1117Wx1400H-4919422190-honeyw064-MODEL2.jpg" 
+                          ],
+        "price"         : 3700,
+        "description"   : ["Liquid-to-powder foundation","12-hour activity proof wear"],
+        "type"          : "Beauty",
+        "category"      : "Face",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "5af8c5b3-cf5a-49bd-8e6f-0814a9adf5a3",
+        "ajio"          : "https://luxe.ajio.com/bobbi-brown-luxe-matte-lip-colour--boss-pink/p/4919421030_redcarpet?user=old",
+        "brand"         : "BOBBI BROWN",
+        "title"         : "Luxe Matte Lip Colour - Boss Pink",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/5TJo/6141120baeb269a26893b778/-1117Wx1400H-4919421030-redcarpet-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/MUoI/6141244f7cdb8cb82424b102/-1117Wx1400H-4919421030-redcarpet-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/kryF/61411a727cdb8cb824249367/-1117Wx1400H-4919421030-redcarpet-MODEL3.jpg"
+                          ],
+        "price"         : 3990,
+        "description"   : ["Oil Enriched","Paraben free"],
+        "type"          : "Beauty",
+        "category"      : "Lips",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "ae36f772-6eb9-444b-a42d-e9d690e3b9a4",
+        "ajio"          : "https://luxe.ajio.com/bobbi-brown-luxe-defining-lipstick--avant-gardenia/p/4919422030_avantgardenia?user=old",
+        "brand"         : "BOBBI BROWN",
+        "title"         : "Luxe Defining Lipstick - Avant Gardenia",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/51YO/6140f2b17cdb8cb824242414/-1117Wx1400H-4919422030-avantgardenia-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/XtRU/6140ed797cdb8cb824241561/-1117Wx1400H-4919422030-avantgardenia-MODEL2.jpg"
+                          ],
+        "price"         : 3850,
+        "description"   : ["Lasting wear (12-hour wear)*"," creamy, modern matte"],
+        "type"          : "Beauty",
+        "category"      : "Lips",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "f0103c5c-e3d9-4468-bd05-046b0982383d",
+        "ajio"          : "https://luxe.ajio.com/estee-lauder-pure-color-desire-matte-lipstick--114-insist/p/4919422750_414proveit?user=old",
+        "brand"         : "ESTEE LAUDER",
+        "title"         : "Pure Color Desire Matte Lipstick",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/5p6G/61410bf57cdb8cb824246a96/-1117Wx1400H-4919422750-414proveit-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/5oWG/6140f0c2f997ddce89c72fdc/-1117Wx1400H-4919422750-414proveit-MODEL2.jpg" 
+                          ],
+        "price"         : 3700,
+        "description"   : ["Potent color in one velvety stroke"," 8-hour wear*"],
+        "type"          : "Beauty",
+        "category"      : "Lips",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "1c03759d-0f29-491c-b564-64f637c44377",
+        "ajio"          : "https://luxe.ajio.com/estee-lauder-pure-colour-envy-matte-sculpting-lipstick--333-persuasive/p/4919422560_333persuasive?user=old",
+        "brand"         : "ESTEE LAUDER",
+        "title"         : "Pure Colour Envy Matte Sculpting Lipstick",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/oMm9/6140f142aeb269a26893718d/-1117Wx1400H-4919422560-333persuasive-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/0QW0/6140f5047cdb8cb8242429f4/-1117Wx1400H-4919422560-333persuasive-MODEL2.jpg" 
+                          ],
+        "price"         : 2950,
+        "description"   : ["Saturates lips with undeniably daring matte color","Lightweight, ultra-creamy"],
+        "type"          : "Beauty",
+        "category"      : "Lips",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "0ae548ca-bbc1-4968-89e9-4e369750c750",
+        "ajio"          : "https://luxe.ajio.com/mac-brush-cleanser-235-ml/p/4919420030_multi?user=old",
+        "brand"         : "M.A.C",
+        "title"         : "Brush Cleanser- 235 Ml",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/5MYv/6140ed7ff997ddce89c727a6/-1117Wx1400H-4919420030-multi-MODEL.jpg" 
+                          ],
+        "price"         : 1150,
+        "description"   : ["clean and condition brush fibres"],
+        "type"          : "Beauty",
+        "category"      : "Make-Up Tools",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "151603a0-6c87-4bb3-9c42-576031683b8a",
+        "ajio"          : "https://luxe.ajio.com/muji-face-brush/p/410156923_etc?user=old",
+        "brand"         : "MUJI",
+        "title"         : "Face Brush",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5efad686f997dd433b467dbe/-1117Wx1400H-410156923-etc-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5eface90f997dd433b465a32/-1117Wx1400H-410156923-etc-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5efad7b7f997dd433b4682e3/-1117Wx1400H-410156923-etc-MODEL3.jpg"
+                          ],
+        "oldprice"      : 1790,
+        "price"         : 1253,
+        "description"   : ["Diameter: 2.7 cm; length: 10.5 cm"],
+        "type"          : "Beauty",
+        "category"      : "Make-Up Tools",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "9de55cd5-73e9-4502-9009-30ee7a1fd60e",
+        "ajio"          : "https://luxe.ajio.com/mac-190-foundation-brush--1-n/p/4919419990_190foundation?user=old",
+        "brand"         : "M.A.C",
+        "title"         : "190 Foundation Brush",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/JY5h/6140f1397cdb8cb824241fa9/-1117Wx1400H-4919419990-190foundation-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210915/zCfy/614120927cdb8cb82424a6ab/-1117Wx1400H-4919419990-190foundation-MODEL2.jpg"
+                          ],
+        "price"         : 3500,
+        "description"   : ["designed to create a smooth, even finish"],
+        "type"          : "Beauty",
+        "category"      : "Make-Up Tools",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "6e59b367-013c-439f-ab49-49d54cae67bb",
+        "ajio"          : "https://luxe.ajio.com/muji-safety-scissors-with-rounded-corners/p/410062510_nocolor?user=old",
+        "brand"         : "MUJI",
+        "title"         : "Safety Scissors With Rounded Corners",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20200912/DqYE/5f5bca627cdb8c7662998b55/-1117Wx1400H-410062510-nocolor-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20200912/j7ex/5f5bcb80aeb269ef8ebdba66/-1117Wx1400H-410062510-nocolor-MODEL.jpg"
+                          ],
+        "price"         : 1190,
+        "description"   : ["designed to create a smooth, even finish"],
+        "type"          : "Beauty",
+        "category"      : "Make-Up Tools",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
     ]
 
 
