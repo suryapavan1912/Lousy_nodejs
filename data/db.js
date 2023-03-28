@@ -992,6 +992,481 @@ const products = [
         "trending"      : false,
         "exclusive"     : true
     },
+    {
+        "id"            : "1274095a-3176-4b11-a654-9fb382839f2a",
+        "ajio"          : "https://www.ajio.com/puma-low-top-lace-up-running-shoes-/p/465642599_white?user=old",
+        "brand"         : "PUMA",
+        "title"         : "Low-Top Lace-Up Running Shoes",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20230124/Vbt6/63cf1903f997dd708e1d8ee6/-1117Wx1400H-465642599-white-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230124/PpDA/63cf1903f997dd708e1d8f2f/-1117Wx1400H-465642599-white-MODEL5.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230124/iVIz/63cf1903f997dd708e1d8efe/-473Wx593H-465642599-white-MODEL6.jpg"
+                          ],
+        "oldprice"      : 16999,
+        "price"         : 15299,
+        "description"   : ["Fabric insole","Lace Fastening","Rubber sole"],
+        "type"          : "Accessories",
+        "category"      : "Shoes",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "32053893-1f01-48e4-87e0-6b52f85812db",
+        "ajio"          : "https://www.ajio.com/asics-ombre-dyed-lace-up-running-shoes/p/465800270_green?user=old",
+        "brand"         : "ASICS",
+        "title"         : "Ombre-Dyed Lace-Up Running Shoes",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20230322/kL8G/641ad282711cf97ba7dffb81/-1117Wx1400H-465800270-green-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230322/sDcV/641ad282711cf97ba7dffbce/-1117Wx1400H-465800270-green-MODEL4.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230322/0udK/641ad282711cf97ba7dffbc3/-1117Wx1400H-465800270-green-MODEL6.jpg"
+                          ],
+        "price"         : 21999,
+        "description"   : ["Lace Fastening","Synthetic fibre upper","Rubber sole"],
+        "type"          : "Accessories",
+        "category"      : "Shoes",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "02a7e98e-f8db-409c-8873-f82bbf5a6ace",
+        "ajio"          : "https://www.ajio.com/adidas-ultraboost-22-running-shoes/p/469206549_white?user=old",
+        "brand"         : "ADIDAS",
+        "title"         : "Ultraboost 22 Running Shoes",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220708/2J3i/62c84fd6aeb26921af6c2c14/-1117Wx1400H-469206549-white-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220708/OxS6/62c848e7aeb26921af6c0d3d/-1117Wx1400H-469206549-white-MODEL3.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220708/0k9i/62c841d6aeb26921af6be9ae/-1117Wx1400H-469206549-white-MODEL2.jpg"
+                          ],
+        "price"         : 18999,
+        "description"   : ["Lace Fastening","Textile upper","Rubber sole"],
+        "type"          : "Accessories",
+        "category"      : "Shoes",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "896a9af9-403f-4c95-8d96-12128ee6319a",
+        "ajio"          : "https://www.ajio.com/puma-low-top-lace-up-footfall-shoes/p/465643093_blue?user=old",
+        "brand"         : "PUMA",
+        "title"         : "Low-Top Lace-Up Footfall Shoes",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20230124/8Z4S/63cf194eaeb269c651f58ae2/-1117Wx1400H-465643093-blue-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230124/gmg2/63cf1954aeb269c651f58b75/-1117Wx1400H-465643093-blue-MODEL5.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230124/xkvQ/63cf194eaeb269c651f58aa3/-1117Wx1400H-465643093-blue-MODEL.jpg"
+                          ],
+        "oldprice"      : 19999,
+        "price"         : 17999,
+        "description"   : ["Lace Fastening","Fabric insole","Rubber sole"],
+        "type"          : "Accessories",
+        "category"      : "Shoes",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "92a7fe53-6483-42b5-850e-36fdf47b9152",
+        "ajio"          : "https://www.ajio.com/adidas-ultraboost-22-lace-up-running-shoes/p/469107631_black?user=old",
+        "brand"         : "ADIDAS",
+        "title"         : "Ultraboost 22 Lace-Up Running Shoes",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220714/pHUH/62cf9f8df997dd03e2d37cbf/-1117Wx1400H-469107631-black-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220714/OVLd/62cfa3d3aeb26921af79bb85/-1117Wx1400H-469107631-black-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220714/mEpF/62cfa16faeb26921af79acbc/-1117Wx1400H-469107631-black-MODEL3.jpg"
+                          ],
+        "price"         : 17999,
+        "description"   : ["Lace Fastening","Textile upper","Rubber sole"],
+        "type"          : "Accessories",
+        "category"      : "Shoes",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "4a7f4e38-a3ff-4ebe-b6bc-a89a298ecd9d",
+        "ajio"          : "https://luxe.ajio.com/hugo-boss-leather-polished-gunmetal-hardware-belt/p/410370015_001?user=old",
+        "brand"         : "HUGO BOSS",
+        "title"         : "Leather Polished-Gunmetal Hardware Belt",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20230314/kGOb/6410893eaeb26924e3bf9347/-1117Wx1400H-410370015-001-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230314/9aTn/64108946f997dde6f4f94fec/-1117Wx1400H-410370015-001-MODEL2.jpg" 
+                          ],
+        "price"         : 13000,
+        "description"   : ["Genuine Leather","100% cow skin","Webbed"],
+        "type"          : "Accessories",
+        "category"      : "Belts",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "b4e7caa8-80b2-4dce-89a1-b50e3b270a84",
+        "ajio"          : "https://luxe.ajio.com/salvatore-ferragamo-logo-plaque-leather-belt/p/410323164_001?user=old",
+        "brand"         : "SALVATORE FERRAGAMO",
+        "title"         : "Logo Plaque Leather Belt",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220706/ir2F/62c5a373aeb26921af6679d9/-1117Wx1400H-410323164-001-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220706/C5n0/62c59fc6aeb26921af666781/-1117Wx1400H-410323164-001-MODEL2.jpg" 
+                          ],
+        "price"         : 45000,
+        "description"   : ["Wipe with clean, dry cloth","Webbed","Genuine Leather"],
+        "type"          : "Accessories",
+        "category"      : "Belts",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "c333dd20-c4d9-463f-939d-234968ebb002",
+        "ajio"          : "https://luxe.ajio.com/giuseppe-zanotti-reptilian-classic-belt/p/469120494_darkbrown?user=old",
+        "brand"         : "GIUSEPPE ZANOTTI",
+        "title"         : "Reptilian Classic Belt",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20230223/5Dfu/63f785a6aeb26924e3881834/-1117Wx1400H-469120494-darkbrown-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230223/djtQ/63f79c0baeb26924e3888788/-1117Wx1400H-469120494-darkbrown-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230223/zZri/63f7915aaeb26924e388505f/-1117Wx1400H-469120494-darkbrown-MODEL3.jpg"
+                          ],
+        "oldprice"      : 45999,
+        "price"         : 27599,
+        "description"   : ["Store in a clean and dry environment","Genuine Leather"],
+        "type"          : "Accessories",
+        "category"      : "Belts",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "552ce38b-ab67-47ac-8485-0624cf85a75f",
+        "ajio"          : "https://luxe.ajio.com/coach-sculpted-buckle-cut-to-size-40mm-reversible-belt/p/410344267_bkcq?user=old",
+        "brand"         : "COACH",
+        "title"         : "Sculpted Buckle Cut-To-Size 40mm Reversible Belt",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20221117/gXey/6376582ff997ddfdbd81ecfc/-1117Wx1400H-410344267-bkcq-MODEL.jpg" 
+                          ],
+        "oldprice"      : 27500,
+        "price"         : 22000,
+        "description"   : ["Wipe with clean, dry cloth","Reversible","Genuine Leather"],
+        "type"          : "Accessories",
+        "category"      : "Belts",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "1d9568dc-fc87-463b-b3b0-256fe2ba9fa1",
+        "ajio"          : "https://luxe.ajio.com/hugo-boss-hugo-stacked-logo-buckle-italian-leather-belt/p/410370092_001?user=old",
+        "brand"         : "HUGO BOSS",
+        "title"         : "Hugo Stacked Logo Buckle Italian Leather Belt",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20230102/Maw7/63b2f177f997ddfdbd0a0665/-1117Wx1400H-410370092-001-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230102/FBkr/63b3079df997ddfdbd0a8b94/-1117Wx1400H-410370092-001-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230102/B2qg/63b305c4aeb269659c1e2ff3/-1117Wx1400H-410370092-001-MODEL3.jpg"
+                          ],
+        "price"         : 11000,
+        "description"   : ["Store in a clean and dry environment","100% cow skin","Genuine Leather"],
+        "type"          : "Accessories",
+        "category"      : "Belts",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "a6df050f-08cb-4d77-86a3-c4c127a4dff6",
+        "ajio"          : "https://luxe.ajio.com/mathey-tissot-h901atbbu-analogue-watch/p/462348269_multi?user=old",
+        "brand"         : "MATHEY- TISSOT",
+        "title"         : "H901ATBBU Analogue Watch",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20230321/0xhI/6419a028f997dde6f420ddcb/-1117Wx1400H-462348269-multi-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230321/9ums/641995d3f997dde6f420a59e/-1117Wx1400H-462348269-multi-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230321/M5V0/64199c4aaeb26924e3e61e58/-1117Wx1400H-462348269-multi-MODEL3.jpg"
+                          ],
+        "oldprice"      : 62500,
+        "price"         : 45000,
+        "description"   : ["Clean the dial with a cotton cloth","Stainless Steel","Swiss Made Since 1886"],
+        "type"          : "Accessories",
+        "category"      : "Watches",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "d76da251-6336-4dec-86a4-d83748cf0371",
+        "ajio"          : "https://luxe.ajio.com/luminox-analogue-watch/p/464518125_red?user=old",
+        "brand"         : "LUMINOX",
+        "title"         : "Analogue Watch",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20221028/unWd/635c0ce5f997ddfdbd499fcf/-1117Wx1400H-464518125-red-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221028/yOrM/635c0ce5f997ddfdbd49a020/-1117Wx1400H-464518125-red-MODEL3.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221028/SSXj/635c0ce5f997ddfdbd49a018/-1117Wx1400H-464518125-red-MODEL2.jpg"
+                          ],
+        "oldprice"      : 67000,
+        "price"         : 48910,
+        "description"   : ["Clean the dial with a cotton cloth","Pacific Driver","Rubber"],
+        "type"          : "Accessories",
+        "category"      : "Watches",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "1b8718ab-2a35-4f79-b8e6-90923e868939",
+        "ajio"          : "https://luxe.ajio.com/nubeo-nb-6063-03-water-resistant-analogue-watch/p/465521432_black?user=old",
+        "brand"         : "NUBEO",
+        "title"         : "NB-6063-03 Water-Resistant Analogue Watch",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20221229/fPgc/63adab70f997ddfdbd021d69/-1117Wx1400H-465521432-black-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221229/99Vh/63adab72f997ddfdbd021e19/-1117Wx1400H-465521432-black-MODEL4.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221229/0pWX/63adab72f997ddfdbd021e1b/-1117Wx1400H-465521432-black-MODEL3.jpg"
+                          ],
+        "oldprice"      : 96000,
+        "price"         : 48000,
+        "description"   : ["Clean the dial with a cotton cloth","Limited edition","Rubber"],
+        "type"          : "Accessories",
+        "category"      : "Watches",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "61cd2766-f4af-43c7-a5e4-cee7ab3a3536",
+        "ajio"          : "https://luxe.ajio.com/rotary-analogue-watch-with-chain-straps/p/465802881_multi?user=old",
+        "brand"         : "ROTARY",
+        "title"         : "Analogue Watch With Chain Straps",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20230301/3ik5/63ff8385aeb26924e39cb37f/-1117Wx1400H-465802881-multi-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230301/NU0W/63ff838caeb26924e39cb4d1/-1117Wx1400H-465802881-multi-MODEL2.jpg" 
+                          ],
+        "oldprice"      : 52250,
+        "price"         : 47025,
+        "description"   : ["Clean the dial with a cotton cloth","Stainless Steel","10-year warranty"],
+        "type"          : "Accessories",
+        "category"      : "Watches",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "e106aa94-723a-40d6-b829-1df7f6a7995b",
+        "ajio"          : "https://luxe.ajio.com/movado-round-shape-analogue-wrist-watch/p/464664438_black?user=old",
+        "brand"         : "MOVADO",
+        "title"         : "Round Shape Analogue Wrist Watch",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220718/bToZ/62d57796f997dd03e2db9e0d/-1117Wx1400H-464664438-black-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220718/9mLZ/62d57796f997dd03e2db9e25/-1117Wx1400H-464664438-black-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220718/kR3s/62d57796f997dd03e2db9e29/-1117Wx1400H-464664438-black-MODEL4.jpg"
+                          ],
+        "oldprice"      : 52125,
+        "price"         : 45349,
+        "description"   : ["Clean the dial with a cotton cloth","Leather","2 Years International Warranty"],
+        "type"          : "Accessories",
+        "category"      : "Watches",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "6e6e6511-433c-436d-aabd-e53442b460c1",
+        "ajio"          : "https://luxe.ajio.com/diesel-dm0361-iconic-oval-sunglasses/p/410307016_rt7iz?user=old",
+        "brand"         : "DIESEL",
+        "title"         : "DM0361 Iconic Oval Sunglasses",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220223/jqBD/62152ddcf997dd03e2e5e587/-1117Wx1400H-410307016-rt7iz-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220223/7bMz/621531f4f997dd03e2e5f7b6/-1117Wx1400H-410307016-rt7iz-MODEL2.jpg"
+                          ],
+        "price"         : 17499,
+        "description"   : ["Dimensions: 14.4 cm x 14.5 cm","Acetate Frame","Glass Lens"],
+        "type"          : "Accessories",
+        "category"      : "Sunglasses",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "f75379b0-0742-44f6-b1b8-cd4ac92bf37a",
+        "ajio"          : "https://luxe.ajio.com/hugo-boss-203578i4658ir-full-rim-sunglasses/p/410278799_grey?user=old",
+        "brand"         : "HUGO BOSS",
+        "title"         : "203578I4658IR Full-Rim Sunglasses",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20210106/2jG7/5ff4c4a3aeb269698143b35a/-1117Wx1400H-410278799-grey-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210106/UfY9/5ff4b59ff997dd5c40caecd2/-1117Wx1400H-410278799-grey-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20210106/Nn1w/5ff4bf77f997dd5c40cb0a5c/-1117Wx1400H-410278799-grey-MODEL4.jpg"
+                          ],
+        "price"         : 22200,
+        "description"   : ["Lens width: 58 mm","Nylon lens","Metal Frame"],
+        "type"          : "Accessories",
+        "category"      : "Sunglasses",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "a6cad8cb-ec6d-4113-a8c0-a4c25326e4ba",
+        "ajio"          : "https://luxe.ajio.com/dsquared2-204910ekp63ku-full-rim-octagonal-sunglasses/p/464620880_blue?user=old",
+        "brand"         : "DSQUARED2",
+        "title"         : "204910Ekp63Ku Full-Rim Octagonal Sunglasses",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220712/ldyb/62cd0d4df997dd03e2cbff68/-1117Wx1400H-464620880-blue-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220712/FhSj/62cd0d4df997dd03e2cbff8f/-1117Wx1400H-464620880-blue-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220712/j75n/62cd0d4df997dd03e2cbff9e/-1117Wx1400H-464620880-blue-MODEL4.jpg"
+                          ],
+        "price"         : 19400,
+        "description"   : ["Full-rim Frame","Metal Frame","Polycarbonate Lens"],
+        "type"          : "Accessories",
+        "category"      : "Sunglasses",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "5c69473c-0f08-48fa-99b3-5b358c0f5ef4",
+        "ajio"          : "https://luxe.ajio.com/dolce--gabbana-0dg6134-polarised-square-sunglasses/p/469204327_black?user=old",
+        "brand"         : "DOLCE & GABBANA",
+        "title"         : "0DG6134 Polarised Square Sunglasses",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220616/6sjz/62ab51b9f997dd03e282c5f6/-1117Wx1400H-469204327-black-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220616/p0Di/62ab5841aeb26921af2ce32f/-1117Wx1400H-469204327-black-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220616/CfI1/62ab60acf997dd03e2832047/-1117Wx1400H-469204327-black-MODEL3.jpg"
+                          ],
+        "oldprice"      : 19290,
+        "price"         : 17361,
+        "description"   : ["Full-rim Frame","Polarised Lens","Nylon Frame"],
+        "type"          : "Accessories",
+        "category"      : "Sunglasses",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "62e0ab1f-5c09-46e3-b021-b64f0fa5c923",
+        "ajio"          : "https://luxe.ajio.com/the-attico-attico40c1sun-jorja-square-sunglasses/p/469433388_black?user=old",
+        "brand"         : "THE ATTICO",
+        "title"         : "ATTICO40C1SUN Jorja Square Sunglasses",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20230308/CgJS/64089ed4f997dde6f4e9d27d/-1117Wx1400H-469433388-black-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230308/DfNl/64089f57aeb26924e3b091f5/-1117Wx1400H-469433388-black-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230308/CCEk/64089c7df997dde6f4e9bf42/-1117Wx1400H-469433388-black-MODEL3.jpg"
+                          ],
+        "price"         : 28999,
+        "description"   : ["Nylon lens","Acetate Frame"],
+        "type"          : "Accessories",
+        "category"      : "Sunglasses",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "867ebc28-e4a1-406c-a333-893068a4e8c2",
+        "ajio"          : "https://luxe.ajio.com/satya-paul-the-gent-striped-silk-tie/p/410237612_red00?user=old",
+        "brand"         : "SATYA PAUL",
+        "title"         : "The Gent Striped Silk Tie",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220531/WPPw/6295eeb0f997dd03e24eba28/-1117Wx1400H-410237612-red00-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220601/z4EZ/62966f5daeb26921affe7b65/-1117Wx1400H-410237612-red00-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220531/LQjp/6296573ef997dd03e2518461/-1117Wx1400H-410237612-red00-MODEL3.jpg"
+                          ],
+        "oldprice"      : 2395,
+        "price"         : 1892,
+        "description"   : ["100% silk","Machine wash"],
+        "type"          : "Accessories",
+        "category"      : "Ties",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "a425a2eb-d988-4e67-b981-c175ec7d792d",
+        "ajio"          : "https://luxe.ajio.com/zegna-floral-print-tie/p/465867519_teal?user=old",
+        "brand"         : "ZEGNA",
+        "title"         : "Floral Print Tie",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20230306/380B/640607e4f997dde6f4e0719f/-1117Wx1400H-465867519-teal-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230306/6vhH/640607e4f997dde6f4e071df/-1117Wx1400H-465867519-teal-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20230306/7efd/640607e4f997dde6f4e071dc/-1117Wx1400H-465867519-teal-MODEL3.jpg"
+                          ],
+        "price"         : 23300,
+        "description"   : ["100% silk","Machine wash"],
+        "type"          : "Accessories",
+        "category"      : "Ties",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "a186a224-d0df-43e8-9259-cdc03191d39f",
+        "ajio"          : "https://luxe.ajio.com/satya-paul-printed-tie--handkerchief-set/p/410237531_grn11?user=old",
+        "brand"         : "SATYA PAUL",
+        "title"         : "Printed Tie & Handkerchief Set",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220426/67Tk/6266f0e8aeb26921af41c90c/-1117Wx1400H-410237531-grn11-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220426/UU0X/6266f6f0f997dd03e28029d9/-1117Wx1400H-410237531-grn11-MODEL3.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220426/p20A/6266fdd8f997dd03e280710b/-1117Wx1400H-410237531-grn11-MODEL2.jpg"
+                          ],
+        "oldprice"      : 5795,
+        "price"         : 4578,
+        "description"   : ["silk","Dry clean"],
+        "type"          : "Accessories",
+        "category"      : "Ties",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    {
+        "id"            : "95758689-5b1d-4758-8cb0-27409c301b33",
+        "ajio"          : "https://luxe.ajio.com/emporio-armani-allover-logo-silk-tie/p/410309094_10560?user=old",
+        "brand"         : "EMPORIO ARMANI",
+        "title"         : "Allover Logo Silk Tie",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20220427/cfOT/62683fe8f997dd03e28356a8/-1117Wx1400H-410309094-10560-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20220427/K6LO/62685055aeb26921af453475/-1117Wx1400H-410309094-10560-MODEL2.jpg" 
+                          ],
+        "oldprice"      : 14000,
+        "price"         : 8400,
+        "description"   : ["100% Silk","Hand wash"],
+        "type"          : "Accessories",
+        "category"      : "Ties",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : true
+    },
+    {
+        "id"            : "d76d69d9-9feb-4915-8867-d0531571fa77",
+        "ajio"          : "https://luxe.ajio.com/hugo-boss-woven-recycled-polyester-tie/p/410365476_710?user=old",
+        "brand"         : "HUGO BOSS",
+        "title"         : "Woven Recycled Polyester Tie",
+        "images"        : [ 
+                            "https://assets.ajio.com/medias/sys_master/root/20221118/7vve/63776631aeb269659c9bfe4c/-1117Wx1400H-410365476-710-MODEL.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221118/5i1g/637760a6f997ddfdbd83b55f/-1117Wx1400H-410365476-710-MODEL2.jpg" ,
+                            "https://assets.ajio.com/medias/sys_master/root/20221118/DAcO/6377655ef997ddfdbd83d161/-1117Wx1400H-410365476-710-MODEL4.jpg"
+                          ],
+        "price"         : 18000,
+        "description"   : ["65% polyester, 35% metallized","Hand wash"],
+        "type"          : "Accessories",
+        "category"      : "Ties",
+        "featured"      : false,
+        "trending"      : false,
+        "exclusive"     : false
+    },
+    // {
+    //     "id"            : ,
+    //     "ajio"          : "",
+    //     "brand"         : "",
+    //     "title"         : "",
+    //     "images"        : [ 
+    //                         "" ,
+    //                         "" ,
+    //                         ""
+    //                       ],
+    //     "oldprice"      : ,
+    //     "price"         : ,
+    //     "description"   : ["","",""],
+    //     "type"          : "Accessories",
+    //     "category"      : "Ties",
+    //     "featured"      : false,
+    //     "trending"      : false,
+    //     "exclusive"     : false
+    // },
     ]
 
 
