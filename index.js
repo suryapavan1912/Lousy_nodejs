@@ -3,8 +3,6 @@ import mongoose from 'mongoose';
 import cors from 'cors'
 import dotenv from 'dotenv'
 import bodyParser from 'body-parser';
-
-// import { v4 as uuidv4 } from 'uuid';
 import { filter , product } from './functions/product.js';
 import { Createuser , Updateuser } from './functions/user.js';
 import { Updatecart, Updatelist } from './functions/cart.js';
@@ -19,10 +17,9 @@ app.use(cors(corsOptions));
 
 app.use(bodyParser.urlencoded({extended : false}))
 app.use(bodyParser.json())
-// app.get('/api/pavan', (req,res)=>res.json(uuidv4()))
 
 async function main() {
-  await mongoose.connect(Process.env.MONGOOSE_PATH);
+  await mongoose.connect(process.env.MONGOOSE_PATH);
 }
 main().catch(err => console.log(err.message));
 
