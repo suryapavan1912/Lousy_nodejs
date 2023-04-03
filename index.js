@@ -1,7 +1,7 @@
 import express from 'express';
 import mongoose from 'mongoose';
-import cors from 'cors'
-import dotenv from 'dotenv'
+import cors from 'cors';
+import dotenv from 'dotenv';
 import bodyParser from 'body-parser';
 import { filter , product } from './functions/product.js';
 import { Createuser , Updateuser } from './functions/user.js';
