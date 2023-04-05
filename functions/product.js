@@ -1,36 +1,47 @@
-import data from '../data/db.js'
-import express from 'express';
+import productinfo from './mongoose_products.js';
 
-
-
-export const filter = (req, res, next)=>{
-  const filters = req.query;
-  const filteredUsers = data.filter(user => {
-    let isValid = true;
-    for (var key in filters) {
-      isValid = isValid && filters[key].includes(user[key]);
-    }
-    return isValid;
-  });
-  res.send(filteredUsers);
+export const filter = async (req, res)=>{
+  try {
+    const filters = req.query;
+    console.log(filters);
+    const products = await productinfo.find(filters)
+    res.json(products)
+  } catch (error) {
+    console.log(error.message);
+  }
 };
 
 
-export const product = function(req,res) {
-
+export const product = async (req,res)=>{
+  try {
     const key = req.params.key    
-    const product = data.filter(item => item.id == key)
-    res.json(product[0])
+    const [product]= await productinfo.find({key})
+    res.json(product)
+  }
+  catch(error){
+    console.log(error.message);
+  }
 }
 
-export const cart = function(req,res) {
+// import data from '../data/db.js'
+// import express from 'express';
 
-  const key = req.params.key    
-  const product = data.filter(item => item.id == key)
-  res.json(product[0])
-}
+// export const filter = (req, res, next)=>{
+//   const filters = req.query;
+//   const filteredUsers = data.filter(user => {
+//     let isValid = true;
+//     for (var key in filters) {
+//       isValid = isValid && filters[key].includes(user[key]);
+//     }
+//     return isValid;
+//   });
+//   res.send(filteredUsers);
+// };
 
 
+// export const product = function(req,res) {
 
-
-
+//     const key = req.params.key    
+//     const product = data.filter(item => item.id == key)
+//     res.json(product[0])
+// }
