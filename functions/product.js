@@ -3,7 +3,6 @@ import productinfo from './mongoose_products.js';
 export const filter = async (req, res)=>{
   try {
     const filters = req.query;
-    console.log(filters);
     const products = await productinfo.find(filters)
     res.json(products)
   } catch (error) {
@@ -14,8 +13,8 @@ export const filter = async (req, res)=>{
 
 export const product = async (req,res)=>{
   try {
-    const key = req.params.key    
-    const [product]= await productinfo.find({key})
+    const id = req.params.key
+    const [ product ] = await productinfo.find({id});
     res.json(product)
   }
   catch(error){

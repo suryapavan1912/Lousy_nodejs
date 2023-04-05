@@ -19,9 +19,14 @@ app.use(bodyParser.urlencoded({extended : false}))
 app.use(bodyParser.json())
 
 async function main() {
-  await mongoose.connect(process.env.MONGOOSE_PATH);
+  try{
+    await mongoose.connect(process.env.MONGOOSE_PATH);
+  }
+  catch(error){
+    console.log(error.message);
+  }
 }
-main().catch(err => console.log(err.message));
+main();
 
 //user
 app.post('/user', Createuser)
